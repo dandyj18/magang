@@ -1,0 +1,187 @@
+p,
+.form-control,
+label,
+.form-label,
+td,
+th {
+	font-weight: 500 !important;
+}
+
+.border {
+	border: 2px solid #ddd !important;
+	box-shadow: 2px 4px 5px #ddd;
+}
+
+#kt_aside_menu,
+.btn-primary,
+.bg-danger,
+.bg-primary,
+.active,
+.label-primary,
+.scrolltop {
+	background: #009b4c !important;
+	border: none;
+}
+
+.icon-3x {
+	color: #009b4c !important;
+}
+
+span.menu-text {
+	color: white !important;
+}
+
+a.menu-link>span {
+	color: white !important;
+}
+
+span.menu-text:hover {
+	color: white !important;
+}
+
+.aside-menu .menu-nav>.menu-item .menu-submenu .menu-item>.menu-link .menu-bullet.menu-bullet-dot>span {
+	background: white !important;
+}
+
+.menu-link:hover {
+	background-color: #757475 !important;
+}
+
+.aside-menu .menu-nav>.menu-item.menu-item-open>.menu-link {
+	background-color: #09e273;
+}
+
+.aside-menu .menu-nav>.menu-item.menu-item-active>.menu-link,
+.aside-menu .menu-nav>.menu-item .menu-submenu .menu-item.menu-item-active>.menu-link {
+	background-color: #077f42;
+}
+
+table thead tr th {
+	font-size: 11px !important;
+}
+
+table tbody tr td {
+	font-size: 11px !important;
+}
+
+.btn {
+	border-radius: 7px;
+	padding: 5px 7px;
+}
+
+.btn i {
+	padding-right: 0px !important;
+}
+
+.btn i {
+	font-size: 14px !important;
+}
+
+table tbody tr td img {
+	width: 90px !important;
+	max-height: 135px !important;
+}
+
+.img-thumbnail {
+	padding: 1px !important;
+	border-radius: 8px;
+}
+
+.card {
+	box-shadow: 2px 4px 10px #ddd;
+	border-radius: 8px;
+}
+
+input,
+select,
+textarea,
+.input-group-text {
+	border-radius: 5px !important;
+}
+
+.select2-container .select2-selection--single {
+	border-radius: 5px !important;
+	height: 38px !important;
+	width: 100% !important;
+}
+
+.select2-container .select2-selection--single .select2-selection__rendered {
+	border-radius: 5px !important;
+	padding: 5px 10px 0px 18px !important;
+	width: 100% !important;
+}
+
+.external-event {
+	padding: 5px 10px;
+	border-radius: 2px;
+	cursor: pointer;
+	margin-bottom: 5px;
+}
+
+.fc-event-solid-danger {
+	background-color: #ed5565 !important;
+}
+
+.fc-event-solid-primary {
+	background-color: #1c84c6 !important;
+}
+
+.fc-event-solid-warning {
+	background-color: #f8ac59 !important;
+}
+
+.fc-event-solid-success {
+	background-color: #1ab394 !important;
+}
+
+.fc-event-solid-info {
+	background-color: #23c6c8 !important;
+}
+
+.fc-title {
+	font-size: revert !important;
+}
+
+.disabled {
+	background: #eee !important;
+}
+
+.hr-dotted {
+	border-top: 1px dashed #8c8b8b;
+	border-bottom: 1px dashed #fff;
+}
+
+.bootstrap-timepicker-widget .bootstrap-timepicker-hour,
+.bootstrap-timepicker-widget .bootstrap-timepicker-minute,
+.bootstrap-timepicker-widget .bootstrap-timepicker-meridian,
+.bootstrap-timepicker-widget .bootstrap-timepicker-second {
+	color: #7E8299;
+	font-weight: 500 !important;
+	font-size: 15px !important;
+	margin-left: -12px;
+}
+
+
+.dataTables_wrapper .dataTable th.sorting_asc,
+.dataTables_wrapper .dataTable td.sorting_asc {
+	color: #ffffff !important;
+}
+
+.dataTables_wrapper .dataTable th.sorting_desc,
+.dataTables_wrapper .dataTable td.sorting_desc {
+	color: #ffffff !important;
+}
+
+table.dataTable.no-footer {
+	border-bottom: none !important;
+}
+
+.hr-dotted {
+	border-top: 1px dashed #8c8b8b;
+	border-bottom: 1px dashed #fff;
+}
+
+
+.swal-footer {
+	text-align: center !important;
+}
